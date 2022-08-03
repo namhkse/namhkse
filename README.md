@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sqrthree&show_icons=true&hide_title=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=namhkse&show_icons=true&hide_title=true">
 
 <!--
 **namhkse/namhkse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
